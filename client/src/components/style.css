@@ -1,0 +1,47 @@
+.login-background {
+    padding-top: 20vh;
+    justify-content: center;
+}
+.login-form {
+    padding-top: 20px;
+    width: 500px;
+    height: 350px;
+    justify-content: center;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.3);
+    background-color: rgb(255, 255, 255);
+}
+.form-input {
+    padding-right: 40px !important;
+}
+.logout-btn {
+    float: right !important;
+    border-radius: 10px !important;
+}
+.main-title {
+    font-size: 100px;
+}
+.table-div {
+    margin: 3%;
+    padding: 3%;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+.ant-table, .ant-table th, .ant-table td {
+    border: 1px solid #111;
+}
+.ant-table tbody:hover {
+    cursor: pointer;
+}
+.ant-table-thead tr th {
+    background-color: rgb(240, 247, 255) !important;
+}
+.ant-table-cell-row-hover {
+    background-color: rgb(214, 229, 235) !important;
+}
+.add-p {
+    text-align: left;
+    margin-bottom: 0;
+}
+.description-h4 {
+    text-align: left;
+}
